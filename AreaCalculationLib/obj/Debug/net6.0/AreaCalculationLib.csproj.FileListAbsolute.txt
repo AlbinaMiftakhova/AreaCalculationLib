@@ -1,0 +1,12 @@
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\bin\Debug\net6.0\AreaCalculationLib.deps.json
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\bin\Debug\net6.0\AreaCalculationLib.dll
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\bin\Debug\net6.0\AreaCalculationLib.pdb
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\obj\Debug\net6.0\AreaCalculationLib.csproj.AssemblyReference.cache
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\obj\Debug\net6.0\AreaCalculationLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\obj\Debug\net6.0\AreaCalculationLib.AssemblyInfoInputs.cache
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\obj\Debug\net6.0\AreaCalculationLib.AssemblyInfo.cs
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\obj\Debug\net6.0\AreaCalculationLib.csproj.CoreCompileInputs.cache
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\obj\Debug\net6.0\AreaCalculationLib.dll
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\obj\Debug\net6.0\refint\AreaCalculationLib.dll
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\obj\Debug\net6.0\AreaCalculationLib.pdb
+C:\Users\almiftakhova\RiderProjects\AreaCalculationLib\AreaCalculationLib\obj\Debug\net6.0\ref\AreaCalculationLib.dll
